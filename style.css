@@ -1,0 +1,14 @@
+body{background-color: azure;
+text-align: justify;}
+#content {
+    width: 600px;
+    border:2px solid blue;
+    margin: auto
+    padding: 200px;
+    border-radius:10px;
+}
+
+img{
+    /* width:600px; */
+    max-width: 100%;
+}
